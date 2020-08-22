@@ -1,0 +1,128 @@
+Topic,Characteristics,Total,Male,Female
+Well-being,Perceived health; very good or excellent (%),57.8,56.4,59.1
+Well-being,Perceived mental health; very good or excellent (%),71.8,72,71.7
+Well-being,Perceived life stress (%),18.2,17.7,18.6
+Health Conditions,Overweight or obese (%),60.8,68.7,53.5
+Health Conditions,Overweight (%),36.5,44.3,29.2
+Health Conditions,Obese (%),24.3,24.4,24.2
+Health Conditions,Arthritis (%),22.9,16.9,28.4
+Health Conditions,Diabetes (%),8.6,9,8.3
+Health Conditions,Asthma (%),9.6,8.1,11
+Health Conditions,High blood pressure (%),22.6,21.4,23.6
+Health Conditions,Mood disorder (%),9,5.5,12.1
+Health Conditions,Pain or discomfort; moderate or severe (%),17.1,14.9,19.1
+Health Conditions,Pain or discomfort that prevents activities (%),16.6,14.2,18.8
+Health Conditions,Low birth weight (% of live births),6.1,5.6,6.7
+Health Conditions,Chronic obstructive pulmonary disease (COPD) (%),5.9,5.9,5.8
+Health Conditions,Injuries within the past 12 months causing limitation of normal activities (%),,,
+Health Conditions,Injuries in the past 12 months; sought medical attention (%),,,
+Health Conditions,Hospitalized stroke event rate (per 100000 population),116,138,97
+Health Conditions,Hospitalized acute myocardial infarction event rate (per 100000 population),253,360,159
+Health Conditions,Injury hospitalization (per 100000 population),491,548,427
+Health Conditions,Cancer incidence (per 100000 population),456.3,539.3,391.9
+Health Conditions,Colon cancer incidence (per 100000 population),60.7,72.7,51
+Health Conditions,Lung cancer incidence (per 100000 population),68.8,85,56.9
+Health Conditions,Breast cancer incidence (per 100000 population),,,101.9
+Health Conditions,Prostate cancer incidence (per 100000 population),,148.3,
+Health Behaviours,Current smoker; daily or occasional (%),22.8,24.6,21.1
+Health Behaviours,Current smoker; daily (%),18.1,19.2,17.1
+Health Behaviours,Heavy drinking (%),21.3,29.3,13.9
+Health Behaviours,Leisure-time physical activity; moderately active or active (%),53.8,57,50.9
+Health Behaviours,Fruit and vegetable consumption; 5 times or more per day (%),34,27.2,40
+Health Behaviours,Bike helmet use (%),,,
+Human Function,Participation and activity limitation; sometimes or often (%),,,
+Human Function,Functional health; good to full (%),,,
+Accessibility,Influenza immunization (%),46.2,42,50
+Accessibility,Mammography (%),,,69
+Accessibility,Pap smear (%),,,81
+Accessibility,Regular medical doctor (%),92.3,89.9,94.5
+Accessibility,Wait time for hip fracture surgery (Proportion with surgery within 48 hours) (proportion),79.6,,
+Appropriateness,Caesarean section (proportion),26.5,,26.5
+Appropriateness,Patients with repeat hospitalizations for mental illness (%),9.6,,
+Effectiveness,Ambulatory care sensitive conditions (per 100000 population),316,355,279
+Effectiveness,30-day acute myocardial infarction (AMI) in-hospital mortality (rate),6.9,,
+Effectiveness,30-day stroke in-hospital mortality (rate),17.9,,
+Effectiveness,Self-injury hospitalizations (per 100000 population),72,59,85
+Effectiveness,30-day obstetric readmission rate (%),2.3,,2.3
+Effectiveness,30-day readmission - patients age 19 and younger (%),6.1,,
+Effectiveness,30-day surgical readmission rate (%),6.3,,
+Effectiveness,30-day medical readmission rate (%),12.2,,
+Effectiveness,Potentially avoidable mortality (per 100000 population),201.6,256.3,150.1
+Effectiveness,Avoidable mortality from preventable causes (per 100000 population),131.7,178.5,87.4
+Effectiveness,Avoidable mortality from treatable causes (per 100000 population),69.9,77.8,62.7
+Continuity,30-day readmission rate for mental illness (%),12.6,,
+Safety,Hospitalized hip fracture event rate (per 100000 population),458,314,558
+Environmental Factors,Second-hand smoke; exposure at home (%),5.7,5.2,6.1
+Environmental Factors,Second-hand smoke; exposure in vehicles and/or public places (%),15.7,17.1,14.4
+Deaths,Infant mortality (per 1000 live births),3.6,3.4,3.8
+Deaths,Life expectancy at birth (years),80.1,77.7,82.4
+Deaths,Life expectancy at age 65 (years),19.3,17.5,20.9
+Deaths,Total; all causes of death (per 100000 population),603.8,760.2,486
+Deaths,  All cancers; deaths (per 100000 population),188.6,237.5,153.7
+Deaths,    Colorectal cancer; deaths (per 100000 population),18,22.5,14.3
+Deaths,    Lung cancer; deaths (per 100000 population),54.3,70.9,42.1
+Deaths,    Breast cancer; deaths (per 100000 population),11.9,,21.5
+Deaths,    Prostate cancer; deaths (per 100000 population),9.2,23.7,
+Deaths,  Circulatory diseases; deaths (per 100000 population),179.6,230.1,140.8
+Deaths,    Ischaemic heart diseases; deaths (per 100000 population),92.5,130.1,63.4
+Deaths,    Cerebrovascular diseases; deaths (per 100000 population),34.9,38,32.3
+Deaths,    All other circulatory diseases; deaths (per 100000 population),52.3,62.1,45.1
+Deaths,  Respiratory diseases; deaths (per 100000 population),54,69.5,45.1
+Deaths,    Pneumonia and influenza; deaths (per 100000 population),13.9,16.4,12.4
+Deaths,    Bronchitis; emphysema and asthma; deaths (per 100000 population),2.4,2.9,2.2
+Deaths,    All other respiratory diseases; deaths (per 100000 population),37.7,50.2,30.5
+Deaths,  Unintentional injuries; deaths (per 100000 population),32,44.6,20.8
+Deaths,  Suicides and self-inflicted injuries; deaths (per 100000 population),9.1,15.4,3.3
+Deaths,  Human immunodeficiency virus [HIV] disease; deaths (per 100000 population),0.6,,
+Deaths,Premature mortality (per 100000 population),280.5,350.6,214.7
+Personal Resources,Sense of community belonging (%),71.2,71.3,71.2
+Personal Resources,Life satisfaction; satisfied or very satisfied (%),92.9,93.5,92.4
+Living and Working Conditions,High school graduates aged 25 to 29 (%),89,85.8,92.2
+Living and Working Conditions,Post-secondary graduates aged 25 to 54 (%),66,62.4,69.2
+Living and Working Conditions,Unemployment (%),8.8,,
+Living and Working Conditions,Youth unemployment; aged 15 to 24 (%),16.7,,
+Living and Working Conditions,Long-term unemployment (%),5.4,5.7,5.1
+Living and Working Conditions,Low income (%),12.9,11.8,13.9
+Living and Working Conditions,Children aged 17 and under living in low income families (%),14.7,15,14.4
+Community,Total population (%),100,100,100
+Community,Large urban population centre population (%),32.3,32,32.6
+Community,Medium population centre population (%),3.4,3.3,3.5
+Community,Small population centre population (%),20.8,20.2,21.4
+Community,Rural area population (%),43.4,44.5,42.4
+Community,Population density (persons per km<sup>2</sup>),17.41,,
+Community,Dependency ratio (%),58.6,,
+Community,Youth; under 20 years; as a proportion of total population (%),21.9,,
+Community,Seniors; 65 years and over; as a proportion of total population (%),15,,
+Community,Aboriginal population (%),3.7,3.7,3.7
+Community,Immigrant population (%),5.3,5.4,5.2
+Community,1 year internal migrants (%),3.8,3.8,3.8
+Community,5 year internal migrants (%),12.2,12.4,12.1
+Community,Population living within a Metropolitan Influenced Zone (%),68,67.9,68.2
+Community,Lone-parent families (%),17.3,3.4,13.9
+Community,Visible minority population (%),5.2,5.5,5
+Health System,Contact with a medical doctor in the past 12 months (%),,,
+Health System,Coronary artery bypass graft (per 100000 population),56,97,21
+Health System,Percutaneous coronary intervention (per 100000 population),157,241,80
+Health System,Cardiac revascularization (per 100000 population),213,337,100
+Health System,Hip replacement (per 100000 population),106,99,112
+Health System,Knee replacement (per 100000 population),187,163,209
+Health System,Hysterectomy (per 100000 population),411,,411
+Health System,Inflow/outflow ratio - Overall (ratio),,,
+Health System,Mental illness hospitalization rate (per 100000 population),401,399,404
+Health System,Mental illness patient days (per 10000 population),581,564,596
+Resources,Doctors rate - General/family physicians (per 100000 population),122,,
+Resources,Doctors rate - Specialist physicians (per 100000 population),119,,
+,,,,
+Data quality symbols,,,,
+.    Not available for any reference period,,,,
+..   Not available for a specific reference period,,,,
+...  Not applicable,,,,
+E    Use with caution,,,,
+F    Too unreliable to be published,,,,
+x    Suppressed to meet the confidentiality requirements of the Statistics Act,,,,
+,,,,
+Source: Statistics Canada.,,,,
+,,,,
+How to cite: Statistics Canada. 2013. Health Profile.,,,,
+Statistics Canada Catalogue no. 82-228-XWE. Ottawa. Released December 12 2013.,,,,
+http://www12.statcan.gc.ca/health-sante/82-228/index.cfm?Lang=E,,,,

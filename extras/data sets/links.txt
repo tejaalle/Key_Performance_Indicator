@@ -1,0 +1,31 @@
+halifax_employment_traded_2017 -- https://www.competeprosper.ca/clusters/data/by-region/halifax
+_ARCHIVED__NHS_Education_by_Location_of_Education-- https://data.novascotia.ca/Education-Post-Secondary-and-Skills-Training/-ARCHIVED-NHS-Education-by-Location-of-Education/ut6n-ijt8
+jobdetailscanada--https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032501
+industryjobcreation--https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032601&pickMembers%5B0%5D=1.4
+jobtypeandeducationneeded--https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032801&pickMembers%5B0%5D=1.4&pickMembers%5B1%5D=2.1
+nsjobs-- https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035601&pickMembers%5B0%5D=1.4
+halifaxjobs--https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410035601&pickMembers%5B0%5D=1.4
+healthmalefemalehalifax--https://www12.statcan.gc.ca/health-sante/82-228/details/page.cfm?Lang=E&Tab=1&Geo1=CMA&Code1=205&Geo2=PR&Code2=01&Data=Rate&SearchText=Halifax&SearchType=Contains&SearchPR=01&B1=All&Custom=&B2=All&B3=All
+nshealthmalefemale--https://www12.statcan.gc.ca/health-sante/82-228/details/page.cfm?Lang=E&Tab=1&Geo1=PR&Code1=12&Geo2=PR&Code2=01&Data=Rate&SearchText=Nova%20Scotia&SearchType=Contains&SearchPR=01&B1=All&Custom=&B2=All&B3=All&GeoLevel=PR&GeoCode=12
+crimesafetyhomealone--https://data.novascotia.ca/Crime-and-Justice/Perceived-safety-from-crime-when-home-alone-at-nig/nw2i-ymps
+courtslist--https://data.novascotia.ca/Crime-and-Justice/Justice-Centres-Courts/72n8-bk3g
+crimecountadultsyears--https://data.novascotia.ca/Crime-and-Justice/Average-Daily-Counts-at-Adult-Correctional-Facilit/m8rv-4ygy
+crime_stastics_year--https://data.novascotia.ca/Crime-and-Justice/Crime-Statistics-Crime-Severity-Index/w64p-5ue3
+trippurposeexitsurvey.csv--https://data.novascotia.ca/Business-and-Industry/Nova-Scotia-Visitor-Exit-Survey-Trip-Purpose-by-Ye/kb9w-de7x
+Invest_Nova_Scotia_Fund_Applications--https://data.novascotia.ca/Business-and-Industry/Invest-Nova-Scotia-Fund-Applications/bcxb-v7fu
+Nova_Scotia_Business_Inc._Export_Development_and_Investment_Attraction_Activity--https://data.novascotia.ca/Business-and-Industry/Nova-Scotia-Business-Inc-Export-Development-and-In/9rd7-7dm6
+_ARCHIVED__Business_Establishments_2010-2011-- https://data.novascotia.ca/Business-and-Industry/-ARCHIVED-Business-Establishments-2010-2011/wa8g-ji9a
+Innovacorp_Incubation_Resident_Companies_2018-2019--https://data.novascotia.ca/Business-and-Industry/Innovacorp-Incubation-Resident-Companies-2018-2019/qhzg-5qkx/data
+Nova_Scotia_Visitor_Exit_Survey__Tourism_Regions_Visited__2010__2015_and_2017--https://data.novascotia.ca/Business-and-Industry/Nova-Scotia-Visitor-Exit-Survey-Tourism-Regions-Vi/e4rq-n5mz/data
+Register_of_Private_Career_Colleges--https://data.novascotia.ca/Education-Post-Secondary-and-Skills-Training/Register-of-Private-Career-Colleges/k3yz-94y3
+Discovering_Opportunities__DO__Schools--https://data.novascotia.ca/Education-Primary-to-Grade-12/Discovering-Opportunities-DO-Schools/jr2d-k7va
+Grade_9_Enrolment__2012-13__and_Graduating_Students__2015-16__by_Gender--https://data.novascotia.ca/Education-Primary-to-Grade-12/Grade-9-Enrolment-2012-13-and-Graduating-Students-/naes-ujpk
+Grade_9_Enrolment__2012-13__and_Graduating_Students__2015-16__by_Board--https://data.novascotia.ca/Education-Primary-to-Grade-12/Grade-9-Enrolment-2012-13-and-Graduating-Students-/e2ba-nibn
+community,religion,labour,language,culture
+Graduation_Information_by_Board--https://data.novascotia.ca/Education-Primary-to-Grade-12/Graduation-Information-by-Board/fmxh-aef7
+Graduation_Information_by_Gender--https://data.novascotia.ca/Education-Primary-to-Grade-12/Graduation-Information-by-Gender/jr6h-hrx6
+Graduation_Rates--https://data.novascotia.ca/Education-Primary-to-Grade-12/Graduation-Rates/fqau-nfyv
+NSschools--https://data.novascotia.ca/Education-Primary-to-Grade-12/Nova-Scotia-Map-Directory-of-Public-Schools/hcdu-5rtg
+Native_Language_of_Nominees_-_Total_Number_by_Language--https://data.novascotia.ca/Immigration-and-Migration/Native-Language-of-Nominees-Total-Number-by-Langua/u6pk-3ncc
+Nova_Scotia_Communities_Engaged_in_Age-Friendly_Community_Planning--https://data.novascotia.ca/Population-and-Demographics/Nova-Scotia-Communities-Engaged-in-Age-Friendly-Co/aasp-xptj
+Gaelic_language_and_cultural_and_supporting_organizations_in_Nova_Scotia--https://data.novascotia.ca/Arts-Culture-and-History/Gaelic-language-and-cultural-and-supporting-organi/dnv2-xrwf

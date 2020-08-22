@@ -1,0 +1,129 @@
+,,Halifax (Census Metropolitan Area)  Nova Scotia,,,,,,Canada
+Topic,Characteristics,Total,Flag_Total,Male,Flag_Male,Female,Flag_Female,Total,Flag_Total,Male,Flag_Male,Female,Flag_Female
+Well-being,Perceived health; very good or excellent (%),61.6,,59.9,,63.1,,59.90,,60.10,,59.70,
+Well-being,Perceived mental health; very good or excellent (%),73.7,,76.9,,70.8,,72.20,,73.10,,71.20,
+Well-being,Perceived life stress (%),19.5,,19.4,,19.6,,23.20,,21.70,,24.60,
+Health Conditions,Overweight or obese (%),57.1,,67.8,,47.3,,52.30,,60.00,,44.60,
+Health Conditions,Overweight (%),37.9,,49.7,,27,,34.00,,40.70,,27.10,
+Health Conditions,Obese (%),19.2,,18.1,,20.3,,18.30,,19.30,,17.40,
+Health Conditions,Arthritis (%),16.4,,11.5,,21.1,,16.20,,12.40,,19.90,
+Health Conditions,Diabetes (%),6.9,,5.7,E,8.1,E,6.30,,6.80,,5.90,
+Health Conditions,Asthma (%),10.2,,7.9,E,12.4,,8.30,,7.10,,9.60,
+Health Conditions,High blood pressure (%),17.7,,16.7,,18.7,,17.50,,17.30,,17.70,
+Health Conditions,Mood disorder (%),10.1,,5.5,E,14.4,,7.10,,5.10,,9.00,
+Health Conditions,Pain or discomfort; moderate or severe (%),14.2,,12.4,,15.9,,14.10,,11.60,,16.50,
+Health Conditions,Pain or discomfort that prevents activities (%),15.1,,13.7,,16.3,,14.70,,12.40,,17.10,
+Health Conditions,Low birth weight (% of live births),,..,,..,,..,6.00,,5.60,,6.40,
+Health Conditions,Chronic obstructive pulmonary disease (COPD) (%),4.2,E,3.8,E,4.5,E,4.10,,3.60,,4.60,
+Health Conditions,Injuries within the past 12 months causing limitation of normal activities (%),,..,,..,,..,,..,,..,,..
+Health Conditions,Injuries in the past 12 months; sought medical attention (%),,..,,..,,..,,..,,..,,..
+Health Conditions,Hospitalized stroke event rate (per 100000 population),,..,,..,,..,121.00,,141.00,,103.00,
+Health Conditions,Hospitalized acute myocardial infarction event rate (per 100000 population),,..,,..,,..,205.00,,289.00,,130.00,
+Health Conditions,Injury hospitalization (per 100000 population),,..,,..,,..,516.00,,576.00,,443.00,
+Health Conditions,Cancer incidence (per 100000 population),461.9,,574.4,,376.6,,404.90,,464.60,,361.30,
+Health Conditions,Colon cancer incidence (per 100000 population),61.7,,75.4,,51.4,,49.90,,60.80,,40.80,
+Health Conditions,Lung cancer incidence (per 100000 population),71.9,,93.3,,56.8,,56.90,,69.30,,47.60,
+Health Conditions,Breast cancer incidence (per 100000 population),,...,,...,99.1,,,...,,...,98.40,
+Health Conditions,Prostate cancer incidence (per 100000 population),,...,161.2,,,...,,...,124.30,,,...
+Health Behaviours,Current smoker; daily or occasional (%),22.8,,24.3,,21.4,,20.10,,22.70,,17.50,
+Health Behaviours,Current smoker; daily (%),17.8,,18.4,,17.2,,15.30,,17.30,,13.30,
+Health Behaviours,Heavy drinking (%),24.9,,33.9,,16.6,,18.20,,25.50,,11.00,
+Health Behaviours,Leisure-time physical activity; moderately active or active (%),57.6,,63.5,,52.3,,53.80,,56.30,,51.50,
+Health Behaviours,Fruit and vegetable consumption; 5 times or more per day (%),38.2,,31.7,,44,,40.50,,33.70,,47.10,
+Health Behaviours,Bike helmet use (%),,..,,..,,..,,..,,..,,..
+Human Function,Participation and activity limitation; sometimes or often (%),,..,,..,,..,,..,,..,,..
+Human Function,Functional health; good to full (%),,..,,..,,..,,..,,..,,..
+Accessibility,Influenza immunization (%),47.4,,45,,49.5,,29.60,,26.10,,32.90,
+Accessibility,Mammography (%),,...,,...,,..,,...,,...,72.50,
+Accessibility,Pap smear (%),,...,,...,,..,,...,,...,72.80,
+Accessibility,Regular medical doctor (%),91,,86.1,,95.5,,84.90,,80.90,,88.90,
+Accessibility,Wait time for hip fracture surgery (Proportion with surgery within 48 hours) (proportion),,..,,..,,..,81.10,,,...,,...
+Appropriateness,Caesarean section (proportion),,..,,..,,..,27.10,,,...,27.10,
+Appropriateness,Patients with repeat hospitalizations for mental illness (%),,..,,..,,..,10.90,,,...,,...
+Effectiveness,Ambulatory care sensitive conditions (per 100000 population),,..,,..,,..,290.00,,323.00,,259.00,
+Effectiveness,30-day acute myocardial infarction (AMI) in-hospital mortality (rate),,..,,..,,..,7.30,,,...,,...
+Effectiveness,30-day stroke in-hospital mortality (rate),,..,,..,,..,15.00,,,...,,...
+Effectiveness,Self-injury hospitalizations (per 100000 population),,..,,..,,..,67.00,,54.00,,80.00,
+Effectiveness,30-day obstetric readmission rate (%),,..,,..,,..,2.00,,,...,2.00,
+Effectiveness,30-day readmission - patients age 19 and younger (%),,..,,..,,..,6.50,,,...,,...
+Effectiveness,30-day surgical readmission rate (%),,..,,..,,..,6.60,,,...,,...
+Effectiveness,30-day medical readmission rate (%),,..,,..,,..,13.40,,,...,,...
+Effectiveness,Potentially avoidable mortality (per 100000 population),,..,,..,,..,182.50,,230.40,,136.70,
+Effectiveness,Avoidable mortality from preventable causes (per 100000 population),,..,,..,,..,117.90,,159.10,,78.20,
+Effectiveness,Avoidable mortality from treatable causes (per 100000 population),,..,,..,,..,64.60,,71.20,,58.50,
+Continuity,30-day readmission rate for mental illness (%),,..,,..,,..,11.60,,,...,,...
+Safety,Hospitalized hip fracture event rate (per 100000 population),,..,,..,,..,435.00,,311.00,,518.00,
+Environmental Factors,Second-hand smoke; exposure at home (%),3.5,E,,F,3.6,E,5.10,,5.30,,4.80,
+Environmental Factors,Second-hand smoke; exposure in vehicles and/or public places (%),14.7,,15.4,E,14.1,,16.70,,17.90,,15.50,
+Deaths,Infant mortality (per 1000 live births),,..,,..,,..,5.00,,5.40,,4.60,
+Deaths,Life expectancy at birth (years),,..,,..,,..,81.10,,78.80,,83.30,
+Deaths,Life expectancy at age 65 (years),,..,,..,,..,20.20,,18.50,,21.60,
+Deaths,Total; all causes of death (per 100000 population),567.9,,703,,472.2,,542.30,,670.10,,443.10,
+Deaths,  All cancers; deaths (per 100000 population),177.7,,219,,150.7,,166.40,,202.10,,141.10,
+Deaths,    Colorectal cancer; deaths (per 100000 population),18.7,,23.4,,15.1,,17.90,,22.40,,14.30,
+Deaths,    Lung cancer; deaths (per 100000 population),48.4,,58.8,,41.6,,45.40,,57.80,,36.10,
+Deaths,    Breast cancer; deaths (per 100000 population),,...,,...,20.7,,11.90,,,...,21.80,
+Deaths,    Prostate cancer; deaths (per 100000 population),,...,21.9,,,...,8.30,,21.00,,,...
+Deaths,  Circulatory diseases; deaths (per 100000 population),167,,210.1,,134.7,,157.30,,199.80,,123.70,
+Deaths,    Ischaemic heart diseases; deaths (per 100000 population),81.8,,115.3,,56.8,,84.60,,117.00,,59.20,
+Deaths,    Cerebrovascular diseases; deaths (per 100000 population),32.1,,29.6,,33.2,,30.80,,33.40,,28.60,
+Deaths,    All other circulatory diseases; deaths (per 100000 population),53.1,,65.2,,44.7,,41.90,,49.50,,36.00,
+Deaths,  Respiratory diseases; deaths (per 100000 population),49.5,,61.4,,43,,45.00,,59.40,,36.10,
+Deaths,    Pneumonia and influenza; deaths (per 100000 population),12.8,,15.1,,11.8,,11.70,,14.50,,10.00,
+Deaths,    Bronchitis; emphysema and asthma; deaths (per 100000 population),2.4,,1.7,,3,,2.40,,3.00,,2.00,
+Deaths,    All other respiratory diseases; deaths (per 100000 population),34.3,,44.6,,28.2,,30.80,,41.90,,24.00,
+Deaths,  Unintentional injuries; deaths (per 100000 population),28,,35.4,,21.9,,25.10,,34.50,,16.30,
+Deaths,  Suicides and self-inflicted injuries; deaths (per 100000 population),8.7,,12.8,,4.8,,10.20,,15.80,,4.80,
+Deaths,  Human immunodeficiency virus [HIV] disease; deaths (per 100000 population),0.8,,1.5,,0,,1.20,,1.90,,0.50,
+Deaths,Premature mortality (per 100000 population),,..,,..,,..,251.70,,312.20,,194.00,
+Personal Resources,Sense of community belonging (%),66.3,,65,,67.5,,65.40,,64.40,,66.40,
+Personal Resources,Life satisfaction; satisfied or very satisfied (%),94.7,,95.6,,93.8,,92.30,,92.40,,92.30,
+Living and Working Conditions,High school graduates aged 25 to 29 (%),92.7,,89.9,,95.4,,88.40,,86.00,,90.80,
+Living and Working Conditions,Post-secondary graduates aged 25 to 54 (%),71.8,,68.7,,74.6,,66.50,,64.60,,68.30,
+Living and Working Conditions,Unemployment (%),,..,,..,,..,7.50,,,.,,.
+Living and Working Conditions,Youth unemployment; aged 15 to 24 (%),,..,,..,,..,14.20,,,.,,.
+Living and Working Conditions,Long-term unemployment (%),3.5,,3.4,,3.6,,4.30,,4.30,,4.30,
+Living and Working Conditions,Low income (%),13.9,,13.1,,14.7,,14.80,,13.90,,15.70,
+Living and Working Conditions,Children aged 17 and under living in low income families (%),14.2,,15,,13.4,,16.10,,16.10,,16.20,
+Community,Total population (%),100,,100,,100,,100.00,,100.00,,100.00,
+Community,Large urban population centre population (%),76.3,,75.6,,77,,60.00,,59.50,,60.40,
+Community,Medium population centre population (%),0,,0,,0,,8.70,,8.60,,8.90,
+Community,Small population centre population (%),2.2,,2.3,,2.1,,12.40,,12.30,,12.50,
+Community,Rural area population (%),21.5,,22.1,,20.8,,18.90,,19.60,,18.20,
+Community,Population density (persons per km<sup>2</sup>),71.02,,,...,,...,3.73,,,...,,...
+Community,Dependency ratio (%),,..,,..,,..,57.40,,,..,,..
+Community,Youth; under 20 years; as a proportion of total population (%),,..,,..,,..,23.50,,,..,,..
+Community,Seniors; 65 years and over; as a proportion of total population (%),,..,,..,,..,12.90,,,..,,..
+Community,Aboriginal population (%),2.5,,2.4,,2.6,,4.30,,4.20,,4.30,
+Community,Immigrant population (%),8.1,,8.6,,7.7,,20.60,,20.00,,21.20,
+Community,1 year internal migrants (%),3.2,,3.3,,3.2,,4.20,,4.20,,4.20,
+Community,5 year internal migrants (%),11.5,,11.7,,11.3,,13.90,,13.90,,13.80,
+Community,Population living within a Metropolitan Influenced Zone (%),100,,100,,100,,86.70,,86.40,,86.90,
+Community,Lone-parent families (%),16.7,,3.1,,13.7,,16.30,,3.50,,12.80,
+Community,Visible minority population (%),9.1,,9.6,,8.7,,19.10,,18.80,,19.30,
+Health System,Contact with a medical doctor in the past 12 months (%),,..,,..,,..,,..,,..,,..
+Health System,Coronary artery bypass graft (per 100000 population),,..,,..,,..,62.00,,102.00,,25.00,
+Health System,Percutaneous coronary intervention (per 100000 population),,..,,..,,..,172.00,,265.00,,87.00,
+Health System,Cardiac revascularization (per 100000 population),,..,,..,,..,233.00,,365.00,,111.00,
+Health System,Hip replacement (per 100000 population),,..,,..,,..,105.00,,100.00,,108.00,
+Health System,Knee replacement (per 100000 population),,..,,..,,..,169.00,,143.00,,194.00,
+Health System,Hysterectomy (per 100000 population),,..,,..,,..,320.00,,,...,320.00,
+Health System,Inflow/outflow ratio - Overall (ratio),,..,,..,,..,,.,,.,,.
+Health System,Mental illness hospitalization rate (per 100000 population),,..,,..,,..,489.00,,511.00,,465.00,
+Health System,Mental illness patient days (per 10000 population),,..,,..,,..,707.00,,739.00,,671.00,
+Resources,Doctors rate - General/family physicians (per 100000 population),,..,,..,,..,106.00,,,...,,...
+Resources,Doctors rate - Specialist physicians (per 100000 population),,..,,..,,..,103.00,,,...,,...
+
+Data quality symbols
+.    Not available for any reference period
+..   Not available for a specific reference period
+...  Not applicable
+E    Use with caution
+F    Too unreliable to be published
+x    Suppressed to meet the confidentiality requirements of the Statistics Act
+
+Source: Statistics Canada.
+
+How to cite: Statistics Canada. 2013. Health Profile.
+Statistics Canada Catalogue no. 82-228-XWE. Ottawa. Released December 12 2013.
+http://www12.statcan.gc.ca/health-sante/82-228/index.cfm?Lang=E
